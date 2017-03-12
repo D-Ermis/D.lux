@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace D.lux.Properties
+namespace dlux.Properties
 {
 
 
