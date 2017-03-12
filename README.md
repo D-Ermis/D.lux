@@ -1,13 +1,13 @@
 # D.lux
 Prevents eye fatigue by reducing the amount of blue light your monitor emits.
 
-#![](logo.png)
+#![](D.lux/logo.png)
 
 #### Download
 * [Download D.lux from here](https://github.com/D-Ermis/D.lux/releases)
 
 #### Screenshot
-![](dlux.png)
+![](D.lux/dlux.png)
 
 #### Features
 * [Fast] Smooth gradual transitions. D.lux doesn't slow down your computer
