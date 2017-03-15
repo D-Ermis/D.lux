@@ -10,10 +10,10 @@ Prevents eye fatigue by reducing the amount of blue light your monitor emits.
 ![](D.lux/dlux.png)
 
 #### Features
-* [Fast] Smooth gradual transitions. D.lux doesn't slow down your computer
-* [Simple] D.lux doesn't depend on geolocation but instead is based on the time of day
-* [Secure] Administrator rights not needed unless you want to go below 3400K (Windows limitation)
-* Gamer mode feature (disables D.lux when a game is running)
+* Smooth gradual transitions. D.lux doesn't slow down your computer
+* D.lux doesn't depend on geolocation but instead is based on the time of day
+* Administrator rights not needed unless you want to go below 3400K (Windows limitation)
+* [Soon] Gamer mode feature (disables D.lux when a game is running)
 
 #### License
 
